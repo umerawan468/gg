@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+    background-image: url(https://th.bing.com/th/id/R.293118e2d9418710dc6f175860922265?rik=Ld%2bjmRXuz28ajQ&pid=ImgRaw&r=0);
+    margin: 180px;
+  }
+  div {
+    padding: 10px;
+    background-color: rgba(274, 274, 274, 0.700);
+    width: 550px;
+    height: 260px;
+    margin: auto 210px;
+  }
+  h4 {
+    text-align: center;
+    font-size: 20px;
+    font-family: sans-serif;
+    letter-spacing: 5px;
+  }
+  h1 {
+    text-align: center;
+    font-size: 60px;
+    letter-spacing: 5px;
+    font-family: sans-serif;
+    word-spacing: 15px;
+  }
+  h1 {
+    text-align: unset;
+    font-size: 20px;
+    font-family: sans-serif;
+    letter-spacing: 5px;
+  }
+    
